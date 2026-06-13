@@ -8,7 +8,7 @@ export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState(localStorage.getItem('token'));
   const [loading, setLoading] = useState(true);
 
-  axios.defaults.baseURL = 'https://food-share-9rhb.onrender.com';
+  axios.defaults.baseURL = 'https://food-share-1-m23v.onrender.com';
 
   useEffect(() => {
     if (token) {

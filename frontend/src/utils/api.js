@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://food-share-9rhb.onrender.com' });
+const API = axios.create({ baseURL: 'https://food-share-1-m23v.onrender.com' });
 
 API.interceptors.request.use((config) => {
   const token = localStorage.getItem('token');
