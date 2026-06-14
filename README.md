@@ -5,6 +5,23 @@
 FoodShare is a **MERN Stack web application** that aims to reduce food waste by connecting **food donors** (restaurants, hotels, bakeries, hostels, function halls, etc.) with **NGOs, orphanages, old-age homes, and volunteers**. The platform enables secure food donation, request management, delivery tracking, and real-time notifications through a modern role-based system.
 
 ---
+# 🌐 Live Demo
+
+Frontend
+
+```
+https://food-share-khaki-one.vercel.app/
+
+```
+
+Backend
+
+```
+https://food-share-1-m23v.onrender.com
+
+```
+
+---
 
 # 🌟 Features
 
@@ -238,36 +255,6 @@ Example
 
 ```
 mongodb+srv://username:password@cluster.mongodb.net/foodshare
-```
-
----
-
-# 📸 Screenshots
-
-Add screenshots here:
-
-* Home Page
-* Register Page
-* Login Page
-* Donor Dashboard
-* NGO Dashboard
-* Volunteer Dashboard
-* Admin Dashboard
-
----
-
-# 🌐 Live Demo
-
-Frontend
-
-```
-https://food-share-khaki-one.vercel.app/
-```
-
-Backend
-
-```
-https://food-share-1-m23v.onrender.com
 ```
 
 ---
